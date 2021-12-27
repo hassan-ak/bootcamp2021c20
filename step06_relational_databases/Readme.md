@@ -21,3 +21,18 @@
     - Select the database
     - Create the connection
     - There is defaut db and schema. We can create multiple schemas. Schema is sepration of different type of data.
+
+- Commands in SQL
+
+  - There are three type of commands
+  - DCL commands : data control / security related commands
+    - creating schemas
+    - creating users
+    - grant right to particular schema/users
+  - DDL commands : database design related commands
+    - creating tables
+    - indexes and other related things
+  - DML commands : database manipulation related commands (CRUD, SIUD)
+    - assessing
+    - storing
+    - changing data
