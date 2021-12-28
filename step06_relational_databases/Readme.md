@@ -69,3 +69,23 @@
       ```sql
       INSERT INTO public.users (user_name, user_dept, age) VALUES('Hassan', 10, 30);
       ```
+
+    - Delete data from the table
+
+      ```sql
+      delete from public.users where user_id = 4
+      ```
+
+    - Update data in the table using
+
+    ```sql
+    update public.users set user_dept = 11 where  user_id =1;
+    ```
+
+    - While defining foreign key there are some actions
+      - on Delete or on Update
+        - no Action -- No action taken
+        - Cascade -- deleteing master data it also delete child record
+        - Restrict -- Not allowed
+        - set Null -- deleteing master data it set Null
+        - set Default --
