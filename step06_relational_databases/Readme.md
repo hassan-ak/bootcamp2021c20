@@ -89,3 +89,5 @@
         - Restrict -- Not allowed
         - set Null -- deleteing master data it set Null
         - set Default --
+
+- [SQL QuickStart Guide](./sqlQuickStartGuide)
