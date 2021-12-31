@@ -91,3 +91,4 @@
         - set Default --
 
 - [SQL QuickStart Guide](./sqlQuickStartGuide)
+- [W3C SQL Tutorial](https://www.w3schools.com/sql/default.asp)
