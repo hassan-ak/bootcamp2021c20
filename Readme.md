@@ -1,12 +1,19 @@
-# bootcamp2021c20 - API Design, Prototyping, Development, and Testing - Everything Must and Will Become an API
+# bootcamp2021c20 - API Design, Prototyping, Development, and Testing : Everything Must and Will Become an API - Relational Database - Learn SQL
 
 ## Learn SQL
+- Relational database
+- Postgre SQL
+- DBeaver
+- SQL 
+  - Commands
+  - Relations
+  - Tables
 
 ### Sections
 
 - [Learning Relational Databases](./step06_relational_databases)
 
-### Class 20 Videos
+### Class 20 Videos: Learn SQL
 
 - [English YouTube](https://www.youtube.com/watch?v=JmAnEElqU5Q&feature=youtu.be&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
